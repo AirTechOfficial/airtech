@@ -2,11 +2,10 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The update you are supposed to see. If not, please refresh. And if it's still not working, contact me by email*. *Email is in the file EMAIL.md*
 
-| Version | Supported          |
-| ------- | ------------------ |
+| Version | Supporting          |
+| ------- |  -----------------  |
 | 1.2.1A   | :white_check_mark: |
 | 1.2.1    | :x:                |
 | 1.2.0C   | :x:                |
@@ -14,8 +13,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Updates are right now expected very soon. We are debugging. We will update this board when we have a update.
