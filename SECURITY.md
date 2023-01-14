@@ -6,10 +6,10 @@ The update you are supposed to see. If not, please refresh. And if it's still no
 
 | Version | Supporting          |
 | ------- |  -----------------  |
-| 1.2.1B   | :white_check_mark: |
-| 1.2.1A   | :x:                |
-| 1.2.1    | :x:                |
-| 1.2.0C   | :x:                |
+| 1.2.2   | :white_check_mark: |
+| 1.2.1B  | :x:                |
+| 1.2.1A  | :x:                |
+| 1.2.1   | :x:                |
 
 ## Reporting a Vulnerability
 
